@@ -1,0 +1,52 @@
+body
+{
+    font-family:'Franklin Gothic Medium';
+    background-color:rgb(240, 240, 238);
+}
+
+
+img.h1 {
+    position: absolute;
+    font-size: 100px;
+    margin-left: 4cm;
+    margin-top: 1cm;
+}
+
+p {
+padding-left: 250px;
+}
+
+p.texto2 {
+
+    font-size:30px;
+    font-family:'Franklin Gothic Medium';
+}
+
+h1
+{
+    font-size: 70px;
+    text-align: center;
+}
+
+
+a
+{
+    color: black;
+    margin: 30px;
+    font-size: 17px;
+    text-decoration: none
+}
+
+img.ima
+{
+    float: left;
+    height: 40px;
+}
+
+ul
+{
+    position: absolute;
+    font-size: 50px;
+    margin-left: 18cm;
+
+}
